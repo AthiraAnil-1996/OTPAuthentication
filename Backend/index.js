@@ -30,7 +30,7 @@ app.post('/api/email',(req,res)=>{
    service: 'gmail',
    auth: {
        user: 'ictakidgenerator@gmail.com',
-       pass: 'ppplcytemtgtagtq'
+       pass: 'Csfsd@123'
    }
 });
 
